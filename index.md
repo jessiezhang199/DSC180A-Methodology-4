@@ -1,6 +1,7 @@
 **Name:** Jessie Zhang  
-**Email:** jiz199@ucsd.edu
-**Section:** DSC 180A section A07
+**Email:** jiz199@ucsd.edu 
+
+**Course Section:** DSC 180A A07 
 **Mentor:** Ryan Lingo
 
 ## Questions
