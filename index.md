@@ -1,7 +1,5 @@
-# Methodology Assignment 4 – Task 2
-
 **Name:** Jessie Zhang  
-**Email:** jzxxx@ucsd.edu
+**Email:** jiz199@ucsd.edu
 **Section:** DSC 180A section A07
 **Mentor:** Ryan Lingo
 
